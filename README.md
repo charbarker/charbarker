@@ -1,6 +1,4 @@
 # Hi, I'm Charlotte 👋  
-Machine Learning Engineer | ML & AI Applied to Scientific & Healthcare Data  
-
 Computer Science graduate (First Class Honours) focused on building end-to-end machine learning systems that turn complex real-world data into practical, reliable tools.
 
 I’m particularly interested in:
